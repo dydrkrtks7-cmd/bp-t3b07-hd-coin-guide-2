@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeomchang-room-note.roomlab-dangsan.xyz/sitemap.xml
